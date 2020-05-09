@@ -1,5 +1,5 @@
 ###########################################################################################
-# Source: Linux Acadamey PostgreSQL Administration Deep Dive Course
+# Source:  laks Linux Acadamey PostgreSQL Administration Deep Dive Course
 # Author: Landon Fowler
 # Purpose: Provide the commands for installing PostgreSQL on Ubuntu 18.04 Bionic Beaver LTS
 # Date Updated: 03/10/2020
